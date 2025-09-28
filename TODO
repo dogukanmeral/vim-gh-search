@@ -1,6 +1,8 @@
 Things to do/add
 =================
 
+documentation
+handle python errors properly
 exact match support
 regex
 case sensitivity

@@ -1,7 +1,7 @@
 Things to do/add
 =================
 
-documentation
+defining default parameters in .vimrc
 handle python errors properly
 exact match support
 regex
